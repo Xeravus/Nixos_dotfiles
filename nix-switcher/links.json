@@ -17,11 +17,18 @@
     },
     "everforest": {
       "wallpapers": [
-        "/home/cato/.config/rice/wallpaper/wallpapercave/everforest1.jpg"
+        "/home/cato/.config/rice/wallpaper/wallpapercave/everforest1.jpg",
+        "/home/cato/.config/rice/wallpaper/wallhaven/wallhaven_3l78rd_1920x1080.png"
       ]
     },
     "gruvbox": {
-      "wallpapers": []
+      "wallpapers": [
+        "/home/cato/.config/rice/wallpaper/wallhaven/wallhaven-3lyrvy_1920x1080.png",
+        "/home/cato/.config/rice/wallpaper/wallhaven/wallhaven-qrjq8l_1920x1080.png",
+        "/home/cato/.config/rice/wallpaper/wallhaven/wallhaven-qr327r_1920x1080.png",
+        "/home/cato/.config/rice/wallpaper/wallhaven/wallhaven-og3wv9_1920x1080.png",
+        "/home/cato/.config/rice/wallpaper/wallhaven/wallhaven-o5ky29_1920x1080.png"
+      ]
     },
     "nord": {
       "wallpapers": []

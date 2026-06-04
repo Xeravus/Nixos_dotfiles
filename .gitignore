@@ -29,8 +29,10 @@ nix-switcher/recent.json
 nix-switcher/wallpaper.json
 nix-switcher/config.json
 nix-switcher/themes/*/
+nix-warper/
 
 kitty/current.conf
 hypr/hyprland/color.conf
 quickshell/color/Current.qml
 
+librewolf/
